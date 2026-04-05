@@ -71,7 +71,7 @@ anchor deploy
 ### Tests
 
 (เช็ค transaction ที่ https://explorer.solana.com/?cluster=devnet)
-
+https://github.com/p33mTheRealOne/whiteven/tree/main/tests/how_to_use
 
 #### สร้างพรรค
 
