@@ -1,0 +1,3 @@
+โชว์ทุกพรรค:
+
+npx ts-node tests/list.ts

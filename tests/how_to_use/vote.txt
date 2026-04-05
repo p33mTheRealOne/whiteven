@@ -1,0 +1,5 @@
+โหวตพรรค:
+
+npx ts-node tests/vote.ts <index>
+
+npx ts-node tests/vote.ts 0

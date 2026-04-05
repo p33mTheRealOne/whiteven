@@ -1,0 +1,5 @@
+สร้างพรรค:
+
+npx ts-node tests/create.ts <ชื่อพรรค>
+
+npx ts-node tests/create.ts "Democrat"
