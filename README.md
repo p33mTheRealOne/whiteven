@@ -74,10 +74,13 @@ anchor deploy
 
 
 สร้างพรรค
+
 <img width="752" height="132" alt="Screenshot 2026-04-05 185311" src="https://github.com/user-attachments/assets/782ac43e-49f0-46d2-b8cd-156474652847" />
 
 ดูพรรค
+
 <img width="766" height="117" alt="Screenshot 2026-04-05 185533" src="https://github.com/user-attachments/assets/2ffd6a86-b04f-4be2-825d-01ecd4e0c9ac" />
 
 โหวตพรรค
+
 <img width="805" height="306" alt="Screenshot 2026-04-05 185636" src="https://github.com/user-attachments/assets/a6bae058-633b-40d7-8f6c-55bb9618e77c" />
